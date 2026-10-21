@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EMI Launcher</string>
+    <string name="btn_playstation">PlayStation</string>
+    <string name="btn_settings">Ajustes</string>
+    <string name="choose_input">Elegí la entrada HDMI de la PlayStation</string>
+    <string name="input_saved">Entrada guardada. Mantené presionado el botón para cambiarla.</string>
+    <string name="no_inputs">No se encontraron entradas de TV. Abriendo el selector del sistema…</string>
+    <string name="open_input_failed">No se pudo abrir la entrada. Abriendo el selector del sistema…</string>
+    <string name="no_fallback">No hay app de TV en vivo ni selector disponible.</string>
+</resources>

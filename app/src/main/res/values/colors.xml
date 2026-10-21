@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0D0D0F</color>
+    <color name="tile">#1C1C21</color>
+    <color name="tile_focused">#2A2A32</color>
+    <color name="tile_accent">#1B2C57</color>
+    <color name="tile_accent_focused">#24407F</color>
+    <color name="focus_border">#FFFFFF</color>
+    <color name="text_primary">#F2F2F2</color>
+</resources>
