@@ -7,7 +7,8 @@ y APK mínimo.
 - Kotlin con Views clásicas (sin Jetpack Compose, sin Leanback, **sin ninguna
   dependencia externa**: solo el framework de Android y la stdlib de Kotlin).
 - Una sola Activity, sin animaciones, sin red.
-- `minSdk 28`, `targetSdk 35`.
+- `minSdk 28`, `targetSdk 34` (AGP 8.1.3 / Gradle 8.4, compatible con
+  Android Studio Giraffe/Hedgehog 2023 o más nuevo).
 - Navegación 100 % con D-pad: foco visible (borde blanco grueso), orden lógico
   izquierda→derecha / arriba→abajo, el botón **PlayStation** tiene el foco al
   iniciar.
